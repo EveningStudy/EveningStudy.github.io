@@ -1,3 +1,1 @@
 # EveningStudy.github.io
-# test
-# hello world
